@@ -1,0 +1,7 @@
+d8training.firstday:
+  path: '/training/firstday'
+  defaults:
+    _controller: '\Drupal\d8training\Controller\TrainingController::firstDay'
+    _title: 'My first day at drupal 8 training'
+  requirements: 
+    _permission: 'access content'

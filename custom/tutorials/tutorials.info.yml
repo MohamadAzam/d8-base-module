@@ -1,0 +1,5 @@
+name: Drupal Tutorials
+type: module
+description: Drupal tutorials from basics
+package: Custom
+core: 8.x

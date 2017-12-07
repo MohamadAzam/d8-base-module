@@ -1,0 +1,6 @@
+d8training.links:
+  title: 'First Page'
+  description: 'Admin settings page link' 
+  menu_name: main
+  route_name: d8training.firstday
+  weight: 100

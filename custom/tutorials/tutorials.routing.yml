@@ -1,0 +1,7 @@
+tutorials.klpage:
+  path: '/klpage'
+  defaults:
+    _controller: '\Drupal\tutorials\Controller\KLPageController::getData'
+    _title: 'KL Page'
+  requirements:
+    _permission: 'access content'
